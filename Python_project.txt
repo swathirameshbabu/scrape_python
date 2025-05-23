@@ -1,0 +1,17 @@
+RERA Odisha Project Scraper
+https://rera.odisha.gov.in/projects/project-list
+
+Features
+
+- Scrapes RERA Registration Number
+- Extracts Project Name
+- Gets Promoter Company Name
+- Extracts Promoter's Registered Office Address
+- Captures GST Number
+- Outputs all data to a structured CSV file
+
+Requirements
+
+Install this package
+
+pip install requests beautifulsoup4
